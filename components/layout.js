@@ -4,14 +4,14 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Kelwen'
-export const siteTitle = 'Playground'
+const name = '31 Days of AAPI'
+export const siteTitle = '31 Days of AAPI'
 
 export default function Layout({ children, home = false}) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/kurodake.jpg" />
         <meta
           name="description"
           content="Learn how to build a personal website using Next.js"
@@ -30,7 +30,7 @@ export default function Layout({ children, home = false}) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/kurodake.jpg"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
@@ -44,7 +44,7 @@ export default function Layout({ children, home = false}) {
               <a>
                 <Image
                   priority
-                  src="/images/profile.jpg"
+                  src="/images/kurodake.jpg"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}
