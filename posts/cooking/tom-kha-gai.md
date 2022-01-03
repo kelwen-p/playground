@@ -3,7 +3,7 @@
 title: "Tom Kha Gai"
 date: "2022-01-01"
 cookedOn: "2021-12-22"
-image: "/images/20210101_TomKha.jpg"
+image: "/images/20220101_TomKha.jpg"
 ---
 
 ### This matters to me because...

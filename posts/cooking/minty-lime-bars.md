@@ -3,7 +3,7 @@
 title: "Minty Lime Bars"
 date: "2022-01-02"
 cookedOn: "2021-12-24"
-image: "/images/20210102_MintyLimeBars.jpg"
+image: "/images/20220102_MintyLimeBars.jpg"
 
 ---
 
