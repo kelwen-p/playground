@@ -3,7 +3,7 @@
 title: "Gyeran-jjim"
 date: "2022-01-09"
 cookedOn: "2021-12-28"
-images: "/images/20220109_GyeranJjim.jpg"
+image: "/images/20220109_GyeranJjim.jpg"
 
 ---
 

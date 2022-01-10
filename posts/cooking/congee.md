@@ -3,7 +3,7 @@
 title: "Congee"
 date: "2022-01-10"
 cookedOn: "2021-12-29"
-images: "/images/20220110_Congee.jpg"
+image: "/images/20220110_Congee.jpg"
 
 ---
 
