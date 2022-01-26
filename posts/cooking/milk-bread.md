@@ -3,7 +3,7 @@
 title: "Milk Bread"
 date: "2022-01-18"
 cookedOn: "2022-01-04"
-images: "/images/20220118_MilkBread.jpg"
+image: "/images/20220118_MilkBread.jpg"
 
 ---
 
